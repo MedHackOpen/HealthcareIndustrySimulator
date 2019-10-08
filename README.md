@@ -1,5 +1,9 @@
 # Healthcare Industry Simulator
 
+
+![MedHack Draft Healthcare Industry Flow](https://www.medhackopen.com/img/medhackhealthcareflow.png)
+
+
 The healthcare industry is made up of many organizations and factors. These vary by country. This simulator assigns scores and attributes associated with the below organizations and factors to produce "shock waves" (or outcomes across the industry) to help:
 * Citizens understand how impacts of government, insurance company and other organization policies might affect them and others
 * Insurance organizations assess risk, properly price premiums, develop new models, and/or enhance social development initiatives
